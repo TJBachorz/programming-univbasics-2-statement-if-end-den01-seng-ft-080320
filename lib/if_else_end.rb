@@ -1,4 +1,5 @@
 # Write your solution 
-run_code_inside = TRUE
-puts "Code before if...end"
-if 
+
+this_second = Time.now.select_second
+
+puts this_second 
