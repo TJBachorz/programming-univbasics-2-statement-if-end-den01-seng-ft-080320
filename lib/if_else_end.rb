@@ -1,5 +1,5 @@
 # Write your solution 
 
-this_second = Time.now.select_second
+this_second = Time.now.second
 
 puts this_second 
