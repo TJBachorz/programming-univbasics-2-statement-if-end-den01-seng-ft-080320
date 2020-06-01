@@ -1,3 +1,3 @@
-current_second = Time.now.to_s
+current_second = Time.now.to_i
 
 print current_second 
